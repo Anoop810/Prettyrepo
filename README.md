@@ -16,12 +16,11 @@
 ```cpp
 const anoop = {
   pronouns: "he" | "him",
-  currentlyWorkingOn: "Holiday CRM System (freelance project)",
-  learning: ["Advanced DSA", "Java", "DevOps tools like Docker & Kubernetes"],
-  languages: ["C++", "Java", "JavaScript", "SQL"],
+  learning: ["Advanced DSA", "CPP", "DevOps tools like Docker & Kubernetes"],
+  languages: ["C++", "Java","CPP" "JavaScript", "SQL"],
   tools: ["React", "Node.js", "PostgreSQL", "Git", "Docker", "Azure"],
   goals: [
-    "Build scalable backend systems",
+    "Build scalable  systems",
     "Ace placement interviews",
     "Explore cloud and DevOps"
   ],
