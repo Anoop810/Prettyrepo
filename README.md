@@ -2,11 +2,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
 
-<p><em>Computer Engineering Student at <a href="https://www.spit.ac.in">SPIT, Mumbai</a>  
+<p><em>Masters in Computer Applications Student at <a href="https://www.spit.ac.in">SPIT, Mumbai</a>  
 <br>Freelance Developer | DSA Learner | FullStack Dev & DevOps Enthusiast</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/-Anoop%20Sonawane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopsonawane/)](https://www.linkedin.com/in/anoopsonawane/)
-[![GitHub](https://img.shields.io/github/followers/anoopsonawane?label=Follow&style=social)](https://github.com/anoopsonawane)
+[[![GitHub](https://img.shields.io/github/followers/anoopsonawane?label=Follow&style=social)](https://github.com/anoopsonawane)](https://github.com/Anoop810)
 
 ---
 
