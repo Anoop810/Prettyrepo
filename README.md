@@ -1,60 +1,64 @@
-<h1 align="center">Hi, I'm Anoop 👋</h1>
-<p align="center">
-  🚀 Aspiring Software Developer | 💻 DSA Enthusiast | 🛠️ Backend & Fullstack Learner
-</p>
+# Hi, I'm Anoop Sonawane
+
+> Aspiring Software Developer • Backend & Full-Stack Development • DevOps Learner • Open to Opportunities
 
 ---
 
-### 🧠 About Me:
-- 🔭 Currently building: CRM System for Tours & Travel Business ([Holiday CRM](#))
-- 🌱 Learning: Advanced DSA (NeetCode), Java for placements, DevOps tools
-- ⚙️ Tools & Technologies: C++, Java, React, Node.js, PostgreSQL, Docker, Git
-- 🎯 Goal: Cracking placements, building scalable backend systems, and earning 💸
-- 🥈 Hackathon Runner-up | ⚡ Tech Quiz Finalist | 🛠️ Freelance Experience
+## 👨‍💻 About Me
+
+- 🎓 Final-year Computer Engineering student with hands-on project experience
+- 🛠️ Focused on **Backend Systems**, **Databases**, and **Efficient Algorithms**
+- 💡 Currently building a custom CRM system for a Tours & Travels business
+- 📈 Learning from platforms like NeetCode, Apna College, and Striver Sheet
+- 💼 Open to software engineering internships and full-time roles in backend or DevOps
 
 ---
 
-### 🛠️ Languages & Tools:
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+## 💻 Skills & Tools
+
+**Languages**  
+`C++` `Java` `JavaScript` `SQL` `HTML/CSS`
+
+**Frameworks / Libraries**  
+`React` `Node.js` `Express` `Bootstrap`
+
+**Databases & DevOps**  
+`PostgreSQL` `MongoDB` `Git` `Docker` `Azure` `Linux`
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anoopsonawane&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopsonawane&layout=compact&theme=radical" height="150"/>
-</p>
+## 🔨 Featured Projects
+
+### 🧳 Holiday CRM System *(Ongoing Freelance Project)*
+A custom CRM built for a Tours & Travels business to manage clients, trips, payments, and nominee hierarchy.  
+**Tech Stack:** React, Node.js, PostgreSQL, Azure  
+**Highlights:**
+- Dynamic user roles (Owner, Employee, Superuser)
+- EMI/Partial payments, referral-based rewards, invoice generation
+- Remote access with secure Azure-hosted backend
+
+### 📊 DSA Practice Repository
+Structured problem-solving based on NeetCode 150, Striver Sheet  
+**Language:** C++  
+**Focus Areas:** Sliding Window, Binary Search, Graphs, Recursion, DP
 
 ---
 
-### 🌟 Featured Projects:
-- 🎯 **[Holiday CRM](#)** – Fullstack CRM app for client tracking, payments, & trip logs
-- 🧠 **[NeetCode Practice](#)** – C++ solutions to curated DSA problems
-- 🛠️ **[Client Portfolio Site](#)** – Built a freelance web app for a local business
+## 📈 GitHub Overview
+
+You can use GitHub's own stats view instead of external images:
+
+- 📌 [Your pinned repositories here](https://github.com/anoopsonawane)
+- 📁 Over 30+ structured DSA problem solutions
+- ⚙️ Building real-world freelance apps under budget constraints
 
 ---
 
-### 📫 Connect with Me:
-<p>
-  <a href="https://linkedin.com/in/anoopsonawane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anoopsonawane@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📫 Contact
+
+- [LinkedIn](https://linkedin.com/in/anoopsonawane)
+- [Email](mailto:anoopsonawane@gmail.com)
 
 ---
 
-<p align="center">
-  🧠 Keep Learning | 💻 Keep Building | 🏆 Keep Winning
-</p>
+> “Learning by building — one project and one bug at a time.”
