@@ -6,7 +6,8 @@
 <br>Freelance Developer | DSA Learner | FullStack Dev & DevOps Enthusiast</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/-Anoop%20Sonawane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopsonawane/)](https://www.linkedin.com/in/anoopsonawane/)
-[[![GitHub](https://img.shields.io/github/followers/anoopsonawane?label=Follow&style=social)](https://github.com/anoopsonawane)](https://github.com/Anoop810)
+[![GitHub](https://img.shields.io/github/followers/Anoop810?label=Follow&style=social)](https://github.com/Anoop810)
+
 
 ---
 
